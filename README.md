@@ -81,4 +81,4 @@ O sistema é controlado através de um terminal serial. Recomenda-se o uso de pr
 ---
 
 ## Autores
-* **Desenvolvimento:** Roberto Cardoso, Heitor lemos e Luis Filipe.
+* **Desenvolvimento:** Roberto Cardoso, Heitor Lemos e Luis Filipe.
