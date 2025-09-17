@@ -80,10 +80,5 @@ O sistema é controlado através de um terminal serial. Recomenda-se o uso de pr
 
 ---
 
-## Licença
-Este projeto é de código aberto e está sob a licença [MIT License](https://github.com/rober1o/porta_eletronica.git/blob/main/LICENSE).
-
----
-
 ## Autores
-* **Desenvolvimento:** Roberto Cardoso
+* **Desenvolvimento:** Roberto Cardoso, Heitor lemos e Luis Filipe.
